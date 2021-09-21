@@ -2293,3 +2293,31 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.21-06.27.46:962][663]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Sanctuaire.Sanctuaire
 [2021.09.21-06.28.00:337][791]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
 [2021.09.21-06.28.00:337][791]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.21-06.28.50:253][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Sanctuaire" FILE="../../../../../Github/ProjetGD/MyProject/Content/ThirdPersonBP/Maps/Sanctuaire.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.21-06.28.50:259][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.09.21-06.28.50:438][856]LogSavePackage: Moving '../../../../../Github/ProjetGD/MyProject/Saved/Sanctuaire84782FC648CCF20FAB365CA43A1599A0.tmp' to '../../../../../Github/ProjetGD/MyProject/Content/ThirdPersonBP/Maps/Sanctuaire.umap'
+[2021.09.21-06.28.50:454][856]AssetCheck: New page: Asset Save: Sanctuaire
+[2021.09.21-06.28.50:454][856]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Sanctuaire.Sanctuaire
+[2021.09.21-06.28.55:374][151]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.21-06.28.55:374][151]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.21-06.29.13:814][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corridor_A_Floor_Stones_C382)
+[2021.09.21-06.29.47:895][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corridor_A_Floor_Stones_C174)
+[2021.09.21-06.29.49:337][379]Cmd: EDIT COPY
+[2021.09.21-06.29.50:187][430]Cmd: EDIT PASTE
+[2021.09.21-06.30.04:338][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corridor_A_Floor_Stones_C197)
+[2021.09.21-06.30.07:643][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corridor_Gardens_Awning_B10)
+[2021.09.21-06.30.13:886][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corridor_Gardens_Awning_B11)
+[2021.09.21-06.30.22:152][322]Cmd: EDIT COPY
+[2021.09.21-06.30.24:006][433]Cmd: EDIT PASTE
+[2021.09.21-06.30.28:552][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corridor_Gardens_Awning_B10)
+[2021.09.21-06.30.29:727][773]Cmd: DELETE
+[2021.09.21-06.30.29:727][773]Cmd: ACTOR DELETE
+[2021.09.21-06.30.29:734][773]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.21-06.30.29:739][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.09.21-06.30.29:741][773]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.09.21-06.30.31:275][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corridor_Gardens_Awning_B14)
+[2021.09.21-06.31.44:598][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Sanctuaire" FILE="../../../../../Github/ProjetGD/MyProject/Content/ThirdPersonBP/Maps/Sanctuaire.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.21-06.31.44:604][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.09.21-06.31.44:784][265]LogSavePackage: Moving '../../../../../Github/ProjetGD/MyProject/Saved/SanctuaireA3AFC3CF495850A22DD01FAD7A208AE5.tmp' to '../../../../../Github/ProjetGD/MyProject/Content/ThirdPersonBP/Maps/Sanctuaire.umap'
+[2021.09.21-06.31.44:810][265]AssetCheck: New page: Asset Save: Sanctuaire
+[2021.09.21-06.31.44:810][265]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Sanctuaire.Sanctuaire
