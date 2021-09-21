@@ -2321,3 +2321,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.21-06.31.44:784][265]LogSavePackage: Moving '../../../../../Github/ProjetGD/MyProject/Saved/SanctuaireA3AFC3CF495850A22DD01FAD7A208AE5.tmp' to '../../../../../Github/ProjetGD/MyProject/Content/ThirdPersonBP/Maps/Sanctuaire.umap'
 [2021.09.21-06.31.44:810][265]AssetCheck: New page: Asset Save: Sanctuaire
 [2021.09.21-06.31.44:810][265]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Sanctuaire.Sanctuaire
+[2021.09.21-06.32.08:870][935]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.21-06.32.08:870][935]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
