@@ -2252,3 +2252,44 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.21-06.25.40:530][521]LogSavePackage: Moving '../../../../../Github/ProjetGD/MyProject/Saved/Sanctuaire0E0EE78E4DE459AEDCD621A74EEE6B2A.tmp' to '../../../../../Github/ProjetGD/MyProject/Content/ThirdPersonBP/Maps/Sanctuaire.umap'
 [2021.09.21-06.25.40:568][521]AssetCheck: New page: Asset Save: Sanctuaire
 [2021.09.21-06.25.40:568][521]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Sanctuaire.Sanctuaire
+[2021.09.21-06.26.03:426][648]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.21-06.26.03:426][648]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.21-06.26.49:787][314]LogStaticMesh: Building static mesh Room_Palace01_Ceiling_Dome_Scaled_Blue...
+[2021.09.21-06.26.49:813][314]LogTexture: Display: Building textures: Dome_Windows_lum (AutoDXT, 1024X1024)
+[2021.09.21-06.26.49:873][314]LogTexture: Display: Building textures: Dome_Windows_d (AutoDXT, 1024X1024)
+[2021.09.21-06.26.49:873][314]LogStaticMesh: Built static mesh [0.09s] /Game/City_of_Brass_Enviroment/Meshes/Room_Palace/Room_Palace01_Ceiling_Dome_Scaled_Blue.Room_Palace01_Ceiling_Dome_Scaled_Blue
+[2021.09.21-06.26.50:054][314]LogActorFactory: Actor Factory created Room_Palace01_Ceiling_Dome_Scaled_Blue
+[2021.09.21-06.26.50:955][368]LogActorFactory: Actor Factory created Room_Palace01_Ceiling_Dome_Scaled_Blue
+[2021.09.21-06.26.51:870][421]Cmd: DELETE
+[2021.09.21-06.26.51:870][421]Cmd: ACTOR DELETE
+[2021.09.21-06.26.51:877][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.21-06.26.51:883][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.09.21-06.26.51:886][421]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.09.21-06.27.09:519][461]LogActorFactory: Actor Factory created Whip_Point_SupportBeam
+[2021.09.21-06.27.10:340][510]LogActorFactory: Actor Factory created Whip_Point_SupportBeam
+[2021.09.21-06.27.11:080][553]Cmd: DELETE
+[2021.09.21-06.27.11:080][553]Cmd: ACTOR DELETE
+[2021.09.21-06.27.11:087][553]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.21-06.27.11:093][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.09.21-06.27.11:094][553]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.09.21-06.27.15:686][823]LogActorFactory: Actor Factory created Whip_Point_Hanger
+[2021.09.21-06.27.16:879][894]LogActorFactory: Actor Factory created Whip_Point_Hanger
+[2021.09.21-06.27.18:496][989]Cmd: DELETE
+[2021.09.21-06.27.18:496][989]Cmd: ACTOR DELETE
+[2021.09.21-06.27.18:503][989]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.21-06.27.18:509][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.09.21-06.27.18:510][989]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.09.21-06.27.20:618][114]LogActorFactory: Actor Factory created Light04
+[2021.09.21-06.27.21:651][176]LogActorFactory: Actor Factory created Light04
+[2021.09.21-06.27.27:641][533]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.21-06.27.27:641][533]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.21-06.27.35:254][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corridor_A_Floor_Stones_C89)
+[2021.09.21-06.27.36:337][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light04)
+[2021.09.21-06.27.45:518][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corridor_A_Floor_Stones_C89)
+[2021.09.21-06.27.46:756][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Sanctuaire" FILE="../../../../../Github/ProjetGD/MyProject/Content/ThirdPersonBP/Maps/Sanctuaire.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.21-06.27.46:762][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.09.21-06.27.46:938][663]LogSavePackage: Moving '../../../../../Github/ProjetGD/MyProject/Saved/SanctuaireF30FDC6C46D6591F8C06A593FB0246B0.tmp' to '../../../../../Github/ProjetGD/MyProject/Content/ThirdPersonBP/Maps/Sanctuaire.umap'
+[2021.09.21-06.27.46:962][663]AssetCheck: New page: Asset Save: Sanctuaire
+[2021.09.21-06.27.46:962][663]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Sanctuaire.Sanctuaire
+[2021.09.21-06.28.00:337][791]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.21-06.28.00:337][791]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
